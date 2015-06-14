@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Binding","A binding of a parameter of a prepared statement."],["State","A state of a prepared statement."]],"trait":[["Value","A value stored in a result row of a query."]],"struct":[["Statement","A prepared statement."]]});
